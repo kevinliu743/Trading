@@ -1,5 +1,5 @@
 """
-Different allocation Algorithms Template
+Different allocation Algorithms Template - from Quantopian's Github
 
 Modern portfolio theory (MPT), or mean-variance analysis:
     https://en.wikipedia.org/wiki/Modern_portfolio_theory
